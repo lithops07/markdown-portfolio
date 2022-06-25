@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Hobbies I like
+* 📚 __Read a book__
+* 🏊‍♂️ _Go swimming_
+* 🌴 *Relax on the __Beach__*
